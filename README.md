@@ -64,5 +64,132 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-trilo-chat is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://trilo.chat/
+Trilo is an AI‑powered workspace that unifies chat, tasks, documents, calendar, and social media scheduling into a single collaborative platform. Its autonomous AI coworkers operate 24/7, handling meetings, knowledge management, and workflow automation, eliminating tool sprawl and boosting team productivity. The service is delivered via web and native apps for macOS, iOS, Android, and integrates with popular tools through MCP.
+
+**Areas:** AI · Collaboration · Productivity · Workspace · Chatbot
+
+## trilo-chat on APIs.io
+
+Everything profiled for trilo-chat is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/trilo-chat/](https://apis.io/providers/trilo-chat/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Trilo API](https://apis.io/apis/trilo-chat/trilo-api/) — Trilo provides an AI‑powered workspace with collaborative features; public documentation exists but no machine‑readable API contract was found.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Trilo Chat Webhooks](https://apis.io/asyncapis/trilo-chat/trilo-chat-webhooks/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Trilo Chat Context](https://apis.io/jsonld/trilo-chat/trilo-chat-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [trilo-chat API Rules](https://apis.io/rules/trilo-chat/trilo-chat-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Trilo Chat Authentication](https://apis.io/security/trilo-chat/trilo-chat-authentication/)
+- [Trilo Chat Domain Security](https://apis.io/security/trilo-chat/trilo-chat-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Trilo Chat Scopes](https://apis.io/scopes/trilo-chat/trilo-chat-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Trilo Chat Plans Pricing](https://apis.io/plans/trilo-chat/trilo-chat-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Trilo Chat Rate Limits](https://apis.io/rate-limits/trilo-chat/trilo-chat-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://trilo.chat/)
+- [Documentation](https://docs.trilo.chat/)
+- [Getting started](https://docs.trilo.chat/developers/cli/quickstart)
+- [API reference](https://docs.trilo.chat/llms.txt)
+- [Pricing](https://trilo.chat/pricing)
+- [Support](https://trilo.chat/support)
+- [Changelog](https://trilo.chat/changelog)
+- [Blog](https://trilo.chat/blog)
+- [Terms of service](https://trilo.chat/terms)
+- [Privacy policy](https://trilo.chat/privacy)
+- [GitHub](https://github.com/trilohq)
+
+## API Evangelist rating
+
+**Kin Score 55.3** — strong · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 45.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 28.9 |
+| Developer ergonomics | 54.8 |
+| Access clarity | 60.0 |
+
+**Agent readiness 47.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 31.8** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/trilo-chat/](https://apis.io/providers/trilo-chat/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for trilo-chat: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/trilo-chat/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
